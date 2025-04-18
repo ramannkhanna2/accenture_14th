@@ -2,7 +2,7 @@
 
 
 ```
-LAB_TIMINGS : 1 pm to 9 pm 
+LAB_TIMINGS : 1 pm to 9 pm  ( till 28th April )
 
 
 - Details of AAP main node :
