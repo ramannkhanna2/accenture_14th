@@ -13,6 +13,9 @@ password : passw0rd112,.
 ip address :
 -  
 -
+  - pvt ip
+    - 172.31.14.2
+    - 172.31.11.65 
 connection command : ssh -i "ohio-key.pem" ubuntu@publicIp
 
 
