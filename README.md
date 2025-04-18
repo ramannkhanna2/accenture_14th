@@ -6,8 +6,8 @@ LAB_TIMINGS : 1 pm to 9 pm
 
 
 - Details of AAP main node :
-ip address : 
-connection command : ssh -i "ohio-key.pem" ec2-user@publicIp
+Static public ip address : 3.142.25.133
+connection command : ssh -i "ohio-key.pem" ec2-user@3.142.25.133
 username : admin
 password : passw0rd112,.
 
