@@ -1,7 +1,7 @@
 # accenture_14th
 
 
-NEW CLUSTER DETAILS IS TURNED ON AND BELOW ARE THE DETAILS ... ( for today will extend the labs to 11 pm )
+NEW CLUSTER DETAILS IS TURNED ON AND BELOW ARE THE DETAILS ... ( for today will extend the labs till 11 pm )
 
 
 ```
