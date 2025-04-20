@@ -21,7 +21,7 @@ ip address :
     - 172.31.4.123
     - 172.31.9.20   
     - 172.31.5.231
-connection command : ssh -i "new-ohio-key.pem" ubuntu@pvtip  (have to acces via main node)
+connection command : ssh ubuntu@pvtip  (have to acces via main node)
 
 
 ```
