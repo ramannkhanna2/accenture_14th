@@ -1,26 +1,27 @@
 # accenture_14th
 
 
-SOME ISSUES HAPPENED ON BELOW CLUSTER ; NEW CLUSTER DETAILS WILL BE TURNED ON AND DETAILS WILL BE UPDATED ABOUT IN SOMETIME SHORTLY ( expected to be ready around 3 - 3.30 pm today )...
+NEW CLUSTER DETAILS IS TURNED ON AND BELOW ARE THE DETAILS ... ( for today will extend the labs to 11 pm )
 
 
 ```
 LAB_TIMINGS : 1 pm to 9 pm  ( till 28th April )
 
 
+
 - Details of AAP main node :
-Static public ip address : 3.142.25.133
-connection command : ssh -i "ohio-key.pem" ec2-user@3.142.25.133
+Static public ip address : 3.133.3.86
+connection command : ssh -i "new-ohio-key.pem" ec2-user@3.133.3.86
 username : admin
 password : passw0rd112,.
 
 - Details of managed nodes :
 ip address :
   - pvt ip
-    - 172.31.14.2
-    - 172.31.11.65
-    - 172.31.8.123
-connection command : ssh -i "ohio-key.pem" ubuntu@pvtip  (have to acces via main node)
+    - 172.31.4.123
+    - 172.31.9.20   
+    - 172.31.5.231
+connection command : ssh -i "new-ohio-key.pem" ubuntu@pvtip  (have to acces via main node)
 
 
 ```
